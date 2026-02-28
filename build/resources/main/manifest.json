@@ -1,0 +1,22 @@
+{
+  "Group": "NoiderN",
+  "Name": "Morpheus",
+  "Version": "0.1.0",
+  "Description": "Exchange all your items",
+  "Authors": [
+    {
+      "Name": "NoiderN"
+    }
+  ],
+  "Website": "",
+  "ServerVersion": "*",
+  "Dependencies": {
+    "Hytale:Universe": "*",
+    "Hytale:EntityModule": "*",
+    "Hytale:BlockModule": "*"
+  },
+  "OptionalDependencies": {},
+  "DisabledByDefault": false,
+  "IncludesAssetPack": true,
+  "Main": "com.noidern.Morpheus"
+}

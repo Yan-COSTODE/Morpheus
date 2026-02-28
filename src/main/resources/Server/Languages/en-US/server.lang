@@ -1,0 +1,19 @@
+items.Morpheus_Forge.name=Morpheus' Forge
+items.Morpheus_Forge.description=Used to transmute item into another.\n\n<i>Here, Oneiro is shaped into reality.</i>
+items.Morpheus_Notebook.name=Morpheus' Notebook
+items.Morpheus_Notebook.description=Same as <item is="Morpheus_Forge"/> but pocket size.\n\n<i>Carry the Forge in your pocket. Contains all your learned Oneiro patterns.</i>
+items.Morpheus_Eye.name=Morpheus' Eye
+items.Morpheus_Eye.description=Used to get started in this journey.\n\n<i>A crystal that sees the true value of all things.</i>
+items.Morpheus_Pocket.name=Morpheus' Pocket
+items.Morpheus_Pocket.description=Used to hold a lot of items.\n\n<i>A fold in space where dreams are stored.</i>
+items.Morpheus_Lens.name=Morpheus' Lens
+items.Morpheus_Lens.description=Used to craft a <item is="Morpheus_Bloom"/>.\n\n<i>Focuses ambient Oneiro into usable energy.</i>
+items.Morpheus_Crucible.name=Morpheus' Crucible
+items.Morpheus_Crucible.description=Used to craft a <item is="Morpheus_Bloom"/>.\n\n<i>Condenses raw matter into pure Oneiro.</i>
+items.Morpheus_Mirror.name=Morpheus' Mirror
+items.Morpheus_Mirror.description=Used to craft a <item is="Morpheus_Bloom"/>.\n\n<i>Reflect Oneiro across vast distances.</i>
+items.Morpheus_Bloom.name=Morpheus' Bloom
+items.Morpheus_Bloom.description=Used to generate Oneiro.\n\n<i>Here, Oneiro is shaped into reality.</i>
+
+ui.morpheuscategory.items=Items
+ui.morpheuscategory.blocks=Blocks

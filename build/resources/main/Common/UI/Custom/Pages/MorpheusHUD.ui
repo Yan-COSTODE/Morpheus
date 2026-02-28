@@ -1,0 +1,16 @@
+Group #MorpheusHUDRoot {
+  Anchor: (Top: 8, Left: 8, Width: 172,  Height: 32);
+  Background: "../Common/HUDBack.png";
+  LayoutMode: Left;
+
+  Label #OneiroLabel {
+    Text: "ONEIRO: 0";
+    Anchor: (Width: 172, Height: 18);
+    Style: (
+        FontSize: 12,
+        RenderBold: true,
+        TextColor: #ffffff,
+        HorizontalAlignment: Center,
+    );
+  }
+}

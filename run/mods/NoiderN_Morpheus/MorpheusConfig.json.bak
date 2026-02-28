@@ -1,0 +1,12 @@
+{
+  "OneiroValue": {
+    "Soil_Dirt": 1,
+    "Soil_Grass": 1,
+    "Soil_Pathway": 1,
+    "Rock_Marble": 1,
+    "Soil_Pebbles": 1,
+    "Rock_Stone_Mossy": 1,
+    "Soil_Gravel": 1,
+    "Rock_Stone": 1
+  }
+}

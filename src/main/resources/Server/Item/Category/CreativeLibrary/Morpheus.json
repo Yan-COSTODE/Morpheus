@@ -1,0 +1,16 @@
+{
+  "Icon": "Icons/ItemCategories/Natural.png",
+  "Order": 4,
+  "Children": [
+    {
+      "Id": "Items",
+      "Name": "server.ui.morpheuscategory.items",
+      "Icon": "Icons/ItemCategories/Blocks.png"
+    },
+    {
+      "Id": "Blocks",
+      "Name": "server.ui.morpheuscategory.blocks",
+      "Icon": "Icons/ItemCategories/Build-Roofs.png"
+    }
+  ]
+}

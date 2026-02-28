@@ -1,0 +1,52 @@
+{
+  "TranslationProperties": {
+    "Name": "server.items.Morpheus_Eye.name",
+    "Description": "server.items.Morpheus_Eye.description"
+  },
+  "Categories": [
+    "Morpheus.Items"
+  ],
+  "ItemLevel": 10,
+  "Recipe": {
+    "TimeSeconds": 1,
+    "Input": [
+      {
+        "ItemId": "Ingredient_Bar_Iron",
+        "Quantity": 3
+      }
+    ],
+    "BenchRequirement": [
+      {
+        "Type": "Crafting",
+        "Categories": [
+          "Farming"
+        ],
+        "Id": "Farmingbench"
+      }
+    ]
+  },
+  "Tool": {},
+  "PlayerAnimationsId": "Watering_Can",
+  "IconProperties": {
+    "Scale": 0.55,
+    "Rotation": [
+      45,
+      60,
+      0
+    ],
+    "Translation": [
+      -11.4,
+      -10.8
+    ]
+  },
+  "Texture": "Items/Tools/Watering_Can/Watering_Can_Texture.png",
+  "Model": "Items/Tools/Watering_Can/Watering_Can_Empty.blockymodel",
+  "Icon": "Icons/ItemsGenerated/Morpheus_Eye.png",
+  "Tags": {
+    "Type": [
+      "Tool"
+    ]
+  },
+  "Weapon": {},
+  "ItemSoundSetId": "ISS_Weapons_Wood"
+}
